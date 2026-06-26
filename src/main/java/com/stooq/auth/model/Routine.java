@@ -4,15 +4,15 @@ public class Routine {
 	private Long id;
 	private String name;
 	
-	public Routine();
-	}
+	public Routine() { }
+		
 	public Routine(Long id, String name) {
 		this.id = id;
 		this.name = name;	
 	}
 
 	public Long getId() {
-		return Id;
+		return id;
 	}
 
 	public void setId(Long id) {

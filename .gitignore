@@ -1,0 +1,12 @@
+# Maven build
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Misc
+*.class
+*.log
+.DS_Store
